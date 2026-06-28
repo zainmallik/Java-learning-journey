@@ -2,7 +2,7 @@ public class conditionalstatements {
     public static void main(String[] args) {
 
         int marks = 78;
-
+//if, if-else statement
         if (marks >= 80) {
 
             System.out.println("Grade A");
@@ -14,6 +14,15 @@ public class conditionalstatements {
             System.out.println("Grade D");
         } else {
             System.out.println("Fail");
+       
         }
+
+
+    //Switch statement
+
+
+
     }
+
 }
+
