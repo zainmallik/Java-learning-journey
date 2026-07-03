@@ -1,4 +1,4 @@
-public class array {
+public class arraydimensions {
     public static void main(String[] args) {
 
         // 1D Array
