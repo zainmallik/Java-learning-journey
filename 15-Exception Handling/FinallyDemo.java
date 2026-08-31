@@ -12,7 +12,7 @@ public class FinallyDemo {
             System.out.println("An error occurred!");
         }
         finally {
-            System.out.println("BYE!.....");// It will execute whether exception occurs or not (Final Boss of Exception Handling lol)
+            System.out.println("BYE!.....");// It will execute whether exception occurs or not (Final Boss of Exception Handling)
         }
     }
 }
